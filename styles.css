@@ -1,0 +1,75 @@
+body { 
+    font: 8pt Verdana, sans-serif; 
+    margin: 10 0 10 0px; 
+    text-align: center; 
+    background-color: #d6cecd; 
+} 
+.portada { 
+
+margin:0 0 0 0px;
+
+ }
+#contenedor{ 
+    text-align: center; 
+    width: 770px; 
+    margin: auto; 
+} 
+#Menu{ 
+    background-color: #000000; 
+    color: #fcfcfd; 
+    font-size:10pt; 
+    font-weight: initial; text-align: left;
+    margin: 0 0 0 0px;
+    padding-top: 15px; padding-left: 15px; padding-bottom: 15px; padding-right: 15px 
+
+} 
+#cuerpo{ 
+    margin: 10 0 10 0px; 
+} 
+#lateral{ 
+    width: 160px; height: 300px;
+    background-color: #757575; 
+    float:left; 
+} 
+#lateral ul{ 
+    margin : 2 0 0 0px; 
+    padding: 0 0 0 0px; 
+    list-style: none; 
+
+} 
+#lateral li{ 
+    background-color: #757575; 
+    margin: 5 5 5 5px; 
+    padding: 5 5 5 5px; 
+    font-weight: bold; font-size-adjust: 1.5; line-height: 5em
+} 
+#lateral a{ 
+    color: #ffffff; 
+    text-decoration: none; 
+} 
+#right { 
+   	width: 120px; 
+   	float: right;	
+  
+} 
+.Destacados{
+    border:2px solid black;
+
+}
+#centro{ 
+    margin-left: 170px; 
+    background-color: #ffffff; 
+    padding: 4 4 4px; padding-bottom: 10px; 
+    width: 460px; 
+} 
+
+
+#footer { 
+    background-color: #b5b5b5; 
+    color: #000000; 
+    font-size:7pt; 
+    font-weight: initial; text-align: center;
+    margin: 0 0 0 0px;
+    padding: 5px 5px 5px 5px
+
+}
